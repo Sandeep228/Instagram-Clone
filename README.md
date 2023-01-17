@@ -35,7 +35,9 @@ npm start
 ## Live Demo
 
 ### [Live Demo](https://instagram-geekyants.netlify.app/)
-###[Storybook Demo] (https://63ad3409a5d92e88c4e299ba-igrxvoqcua.chromatic.com/?path=/story/carousel--carousel-post)
+
+## Storybook Demo
+### [Storybook Demo] (https://63ad3409a5d92e88c4e299ba-igrxvoqcua.chromatic.com/?path=/story/carousel--carousel-post)
 
 
 ## Technologies
