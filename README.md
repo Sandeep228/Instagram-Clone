@@ -29,12 +29,12 @@ npm install
 npm start
 ```
 
-- Note - you will need to generate your own environment variables for Firebase . You can check the required variables in [.env.sample]() file.
+- Note - you will need to generate your own environment variables for Firebase . You can check the required variables in [.env.sample](https://github.com/Sandeep228/Instagram-Clone/blob/main/.env.sample) file.
 
 ## Live Demo
 
 ### [Live Demo](https://instagram-geekyants.netlify.app/)
-Storybook deploy link -> https://63ad3409a5d92e88c4e299ba-igrxvoqcua.chromatic.com/?path=/story/carousel--carousel-post
+###[Storybook deploy] (https://63ad3409a5d92e88c4e299ba-igrxvoqcua.chromatic.com/?path=/story/carousel--carousel-post)
 
 
 ## Technologies
